@@ -1,4 +1,6 @@
-### Hi there 👋
+### Android develoment
+study android 
+
 
 <!--
 **SheIsAlice/SheIsAlice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
