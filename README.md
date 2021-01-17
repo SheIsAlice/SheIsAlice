@@ -1,5 +1,6 @@
-### Android develoment
-study android 
+## Hongik university Computer Engineering
+* study anroid development
+* project information
 
 
 <!--
