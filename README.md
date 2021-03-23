@@ -1,6 +1,6 @@
 ## Hongik university Computer Engineering
-### First
-* study anroid development
+### FirstCancel Changes
+* Anroid development(Java/Kotlin)
 * project information
 
 
