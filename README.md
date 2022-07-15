@@ -1,6 +1,6 @@
 ## Hongik university Computer Engineering
 ### First
-* Anroid development(Java/Kotlin)
+* Spring BackEnd
 * project information
 
 
