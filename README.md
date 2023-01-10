@@ -1,6 +1,6 @@
 ## Hongik university Computer Engineering
 ### First
-* Spring BackEnd
+* BackEnd / Server
 * project information
 
 
