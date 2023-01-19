@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sheisalice606&fontSize=70&animation=twinkling)
 
-<p align="center">전용수</p>
-
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
 
 <div align="center">
