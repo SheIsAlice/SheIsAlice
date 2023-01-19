@@ -6,7 +6,8 @@
 
 <div align="center">
   <h3>language</h3>
-  
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -15,6 +16,7 @@
 
 <div align="center">
   <h3>BE</h3>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -25,7 +27,7 @@
 
 <br>
 
-<h3 align="center">🪄 Velog 🪄</h3>
+<h3 align="center">🪄 Velog</h3>
 
 <div align="center" style="text-align:center">
   
@@ -33,3 +35,14 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606)](https://velog.io/@sheisalice606)
   
 </div>
+
+<br>
+
+<h3 align="center">🪄 Algorithm</h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
+  
+</div>
+
