@@ -3,7 +3,7 @@
 <div align="center"><h1>🛠️ Tech Stack</h1></div>
 
 <div align="center">
-  <h3>BE</h3>
+  <h3>Techs that I've used at least once</h3>
 </div>
 
 
