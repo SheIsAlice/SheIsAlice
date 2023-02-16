@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="center">🪄 Velog</h3>
+<h3 align="center">Velog</h3>
 
 <div align="center" style="text-align:center">
   
@@ -34,11 +34,17 @@
 
 <br>
 
-<h3 align="center">🪄 Solved.ac</h3>
+<div align="center" style="text-align:center">
+  
+  [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
+  
+</div>
 
 <div align="center" style="text-align:center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
   
 </div>
+
+
 
