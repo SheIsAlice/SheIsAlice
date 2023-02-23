@@ -24,11 +24,13 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheisalice606&show_icons=true&theme=apprentice)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheisalice606&theme=synthwave&show_icons=true)
 
 [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
+
+
   
 
 
