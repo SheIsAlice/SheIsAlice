@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/QueryDsl-0B2343?style=flat-square&logo=Jpa&logoColor=white"/></a>&nbsp 
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-E6B91E?style=flat-square&logo=AWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp 
 </p>
