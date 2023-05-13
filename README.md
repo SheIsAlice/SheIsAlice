@@ -33,15 +33,19 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
 
+<br>
+
+<a href="https://velog.io/@sheisalice606"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sheisalice606"/></a>
+
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=구현)](https://velog.io/@sheisalice606)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=구현&color=dark)](https://velog.io/@sheisalice606)
 
 </div>
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=탐색)](https://velog.io/@sheisalice606)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=탐색&color=dark)](https://velog.io/@sheisalice606)
   
 </div>
 
