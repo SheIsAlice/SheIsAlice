@@ -49,7 +49,17 @@
   
 </div>
 
+</br>
+
+### Work & Experiences 
+
+----
+
+- 🏫 2023.01 ~  Main Server Developer of App [크런] - 우리 동네 크루런닝
   
+- 🏢 2023.01 ~ 2023.03 Worked for [(주) 버스킹티비](https://www.buskingtv.com/) as an Assistant Server Developer
 
+- 📝 2023.04 ~ Member of [University MakeUs Challange](https://www.makeus.in/umc) 4th - 전국 대학 앱 런칭 연합동아리
 
+- 🔭 2023.04 ~ Main Server Developer of App [[SulSul]](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스 플랫폼
 
