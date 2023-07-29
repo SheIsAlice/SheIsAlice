@@ -63,3 +63,4 @@
 
 - 🔭 2023.04 ~ Main Server Developer of App [[SulSul]](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스 플랫폼
 
+- 💻 2023.06 ~ Main Server Developer of WebSite [[태스큐]](https://github.com/TasQueue) - 태스크 관리 SNS
