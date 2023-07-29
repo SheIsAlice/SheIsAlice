@@ -55,7 +55,7 @@
 
 ----
 
-- 🏫 2023.01 ~  Main Server Developer of App [크런] - 우리 동네 크루런닝
+- 🏫 2023.01 ~  Main Server Developer of App [Krun(크런)] - 우리 동네 크루런닝
   
 - 🏢 2023.01 ~ 2023.03 Worked for [(주) 버스킹티비](https://www.buskingtv.com/) as an Assistant Server Developer
 
