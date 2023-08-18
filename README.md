@@ -55,12 +55,12 @@
 
 ----
 
-- 🏫 2023.01 ~  Main Server Developer of App [Krun(크런)] - 우리 동네 크루런닝
+- 🏫 2023.01 ~  Main Server Developer of App [Krun(크런)](https://github.com/RunningCrew-Project/RunningCrew-Backend/tree/develop) - 우리 동네 크루런닝
   
 - 🏢 2023.01 ~ 2023.03 Worked for [(주) 버스킹티비](https://www.buskingtv.com/) as an Assistant Server Developer
 
 - 📝 2023.04 ~ Member of [University MakeUs Challange](https://www.makeus.in/umc) 4th - 전국 대학 앱 런칭 연합동아리
 
-- 🔭 2023.04 ~ Main Server Developer of App [[SulSul(술술)]](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스 플랫폼
+- 🔭 2023.04 ~ Main Server Developer of App [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스 플랫폼
 
-- 💻 2023.06 ~ Main Server Developer of WebSite [[TaskQ(태스큐)]](https://github.com/TasQueue) - 태스크 관리 SNS
+- 💻 2023.06 ~ Main Server Developer of WebSite [TaskQ(태스큐)](https://github.com/TasQueue) - 태스크 관리 SNS
