@@ -39,13 +39,13 @@
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=구현&color=dark)](https://velog.io/@sheisalice606)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=기술면접&color=dark)](https://velog.io/@sheisalice606)
 
 </div>
 
 <div align="left" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=탐색&color=dark)](https://velog.io/@sheisalice606)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=구현&color=dark)](https://velog.io/@sheisalice606)
   
 </div>
 
