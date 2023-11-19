@@ -27,18 +27,17 @@
 <br>
 
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
+[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo6427)](https://solved.ac/soo6427/) 
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/) <img src="http://mazandi.herokuapp.com/api?handle=soo6427&theme=warm"/>
+
 
 <br>
 
 <a href="https://velog.io/@sheisalice606"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@sheisalice606"/></a>
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=기술면접)](https://velog.io/@sheisalice606)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=기술면접)](https://velog.io/@sheisalice606)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=탐색)](https://velog.io/@sheisalice606)
  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sheisalice606&tag=구현)](https://velog.io/@sheisalice606)
-
 </br>
 
 ### Work & Experiences 
