@@ -51,7 +51,7 @@
 
 - 📝 2023.04 ~ [University MakeUs Challange](https://www.makeus.in/umc) 4기 - 전국 대학 앱 런칭 연합동아리
 
-- 🔭 2023.04 ~ [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스 플랫폼
+- 🔭 2023.04 ~ [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스
 
 - 💻 2023.06 ~ [TaskQ(태스큐)](https://github.com/TasQueue) - 일정 관리 커뮤니티 서비스
 
