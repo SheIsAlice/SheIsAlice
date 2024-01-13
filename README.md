@@ -55,7 +55,7 @@
   
 - 🏢 2023.01 ~ 2023.03 [(주) 버스킹티비](https://www.buskingtv.com/) - 인턴 개발 보조
 
-- 📝 2023.04 ~ [University MakeUs Challange](https://www.makeus.in/umc) 4기 - 전국 대학 앱 런칭 연합동아리
+- 📝 2023.04 ~ [University MakeUs Challange](https://www.makeus.in/umc) 4기 - 전국 연합 앱 런칭 동아리
 
 - 🔭 2023.04 ~ [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스
 
