@@ -51,7 +51,7 @@
 
 ----
 
-- 🏫 2022.11 ~  [Krun(크런)](https://github.com/RunningCrew-Project/RunningCrew-Backend/tree/develop) - 우리 동네 크루런닝
+- 🏫 2022.11 ~  [Krun(크런)](https://github.com/RunningCrew-Project) - 우리 동네 크루런닝
   
 - 🏢 2023.01 ~ 2023.03 [(주) 버스킹티비](https://www.buskingtv.com/) - 인턴 개발 보조
 
