@@ -51,6 +51,8 @@
 
 ----
 
+- 💻 2017.03 ~ [홍익대학교 컴퓨터공학과](https://wwwce.hongik.ac.kr/dept/index.html) 입학
+
 - 🏫 2022.11 ~  [Krun(크런)](https://github.com/RunningCrew-Project) - 우리 동네 크루런닝
   
 - 🏢 2023.01 ~ 2023.03 [(주) 버스킹티비](https://www.buskingtv.com/) - 인턴 개발 보조
