@@ -53,13 +53,13 @@
 
 - 💻 2017.03 ~ [홍익대학교 컴퓨터공학과](https://wwwce.hongik.ac.kr/dept/index.html) 입학
 
-- 🏫 2022.11 ~  [Krun(크런)](https://github.com/RunningCrew-Project) - 우리 동네 크루런닝
+- 🏫 2022.10 ~  [Krun(크런)](https://github.com/RunningCrew-Project) - 우리 동네 크루런닝
   
-- 🏢 2023.01 ~ 2023.03 [(주) 버스킹티비](https://www.buskingtv.com/) - 인턴 개발 보조
+- 🏢 2023.02 ~ 2023.03 [(주) 버스킹티비](https://www.buskingtv.com/) - 인턴 개발 보조
 
-- 📝 2023.04 ~ [University MakeUs Challange](https://www.makeus.in/umc) 4기 - 전국 연합 앱 런칭 동아리
+- 📝 2023.03 ~ [University MakeUs Challange](https://www.makeus.in/umc) 4기 - 전국 연합 앱 런칭 동아리
 
-- 🔭 2023.04 ~ [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스
+- 🔭 2023.03 ~ [SulSul(술술)](https://github.com/SULSUL-APP) - 비대면 논술 첨삭 서비스
 
 - 💻 2023.06 ~ [TaskQ(태스큐)](https://github.com/TasQueue) - 일정 관리 커뮤니티 서비스
 
