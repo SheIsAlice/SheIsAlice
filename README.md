@@ -30,12 +30,6 @@
 
 <br>
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo6427)](https://solved.ac/soo6427/) 
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo6427)](https://solved.ac/soo6427/) <img src="http://mazandi.herokuapp.com/api?handle=soo6427&theme=warm"/>
-
-<br>
-
 <!--
 <br>
 
